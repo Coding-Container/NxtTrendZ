@@ -37,6 +37,7 @@
   }
 }
 
+<<<<<<< HEAD
 .remove-all-btn {
   display: flex;
   align-self: flex-end;
@@ -56,3 +57,6 @@
     font-size: 16px;
   }
 }
+=======
+/* Write your CSS here */
+>>>>>>> bb380096a1501f668a89562de3b86392cbbcaa55
